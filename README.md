@@ -206,7 +206,7 @@ implementation 'com.github.amlcurran.showcaseview:library:5.4.3'
 
 每位成員都在不同的功能模組上貢獻專長，共同打造出這款結合教育與娛樂的應用程式。
 
-## � 相關文件
+## 相關文件
 
 - **[SECURITY.md](SECURITY.md)** - 安全配置指南，說明如何管理環境變數
 - **[GITHUB_UPLOAD_GUIDE.md](GITHUB_UPLOAD_GUIDE.md)** - GitHub 上傳指南，詳細說明如何將專案上傳到 GitHub
@@ -214,9 +214,9 @@ implementation 'com.github.amlcurran.showcaseview:library:5.4.3'
   - `upload_to_github.bat` - Windows 版本
   - `upload_to_github.sh` - Linux/Mac 版本
 
-## �📄 授權條款
+## 授權條款
 
-本專案採用 MIT 授權條款 - 詳見 [LICENSE](LICENSE) 檔案
+本專案採用 MIT 授權條款 
 
 ## 🙏 致謝
 
