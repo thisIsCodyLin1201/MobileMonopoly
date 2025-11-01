@@ -1,0 +1,54 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# 環境變數檔案 - 包含機密資訊
+.env
+
+# 編譯輸出
+*.apk
+*.ap_
+*.aab
+
+# Log 檔案
+*.log
+
+# 密鑰檔案
+*.jks
+*.keystore
+
+# Android Studio 快取
+.idea/**/shelf
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Gradle
+.gradle/
+build/
+*/build/
+
+# 本地設定
+local.properties
+
+# 下載的圖片目錄
+downloaded_images/

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFF8E1"/> <!-- 背景色：淡黃色 -->
+    <corners android:radius="12dp"/> <!-- 圓角半徑 -->
+    <stroke android:width="2dp" android:color="#E0B500"/>
+    <padding
+        android:left="16dp"
+        android:top="8dp"
+        android:right="16dp"
+        android:bottom="8dp"/> <!-- 按钮内边距，可以根据需要调整 -->
+</shape>
